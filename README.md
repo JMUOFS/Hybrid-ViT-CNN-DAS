@@ -13,7 +13,7 @@ The field experiments were conducted in collaboration with **China Mobile Commun
 The dataset contains **six classes of railway-related acoustic events**, including background noise，train passing and representative mechanical disturbances, as shown in the following figure.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/62564e5a-28c6-42d4-9570-4cc241b936f1" width="70%">
+<img src="https://github.com/user-attachments/assets/d118acb5-9cc3-4b79-98a6-d1180dedc84d" width="70%">
 <br>
 <em>Fig. Representative time-domain waveforms of different railway acoustic events.</em>
 </div>
